@@ -1,4 +1,4 @@
-## version $VER: asl.catalog 1.0 (29.04.2010)
+## version $VER: asl.catalog 2.0 (06.08.2026)
 ## language polski
 ## codeset 5
 ;
@@ -56,6 +56,18 @@ Na pewno skasowaæ\n\
 MSG_FILEREQ_DELETE_OKCANCEL
 Skasuj|Poniechaj
 ; Delete|Cancel
+;
+MSG_FILEREQ_FOREIGNER_TITLE
+Ikony upuszczone z ró¿nych katalogów
+; Icons dropped from different drawers
+;
+MSG_FILEREQ_FOREIGNER_MSG
+Ostrze¿enie: upuszczone w³a¶nie ikony\nnie pochodz± wszystkie z tego samego katalogu.\nOkno wyboru nie mog³o obs³u¿yæ nastêpuj±cych plików:\n%s
+; Warning: The icons that have just been dropped\ndo not all come from the same drawer.\nThe requester could not handle the following files:\n%s
+;
+MSG_FILEREQ_FOREIGNER_OK
+OK
+; OK
 ;
 MSG_FILEREQ_RENAME_TITLE
 Zmieñ nazwê
