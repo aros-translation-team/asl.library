@@ -1,0 +1,416 @@
+## version $VER: asl.catalog 2.0 (06.08.2026)
+## language norsk
+## codeset 0
+;
+MSG_FILEREQ_TITLE
+Velg fil
+; Select File
+;
+MSG_FILEREQ_POSITIVE_GAD
+Ok
+; Ok
+;
+MSG_FILEREQ_NEGATIVE_GAD
+Avbryt
+; Cancel
+;
+MSG_FILEREQ_VOLUMES_GAD
+Volumer
+; Volumes
+;
+MSG_FILEREQ_PARENT_GAD
+Opphav
+; Parent
+;
+MSG_FILEREQ_PATTERN_LABEL
+Søkestreng
+; Pattern
+;
+MSG_FILEREQ_DRAWER_LABEL
+Skuff
+; Drawer
+;
+MSG_FILEREQ_FILE_LABEL
+Fil
+; File
+;
+MSG_FILEREQ_LV_DRAWER
+Skuff
+; Drawer
+;
+MSG_FILEREQ_LV_ASSIGN
+Anvis
+; Assign
+;
+MSG_FILEREQ_DELETE_TITLE
+Slett fil
+; Delete File
+;
+MSG_FILEREQ_DELETE_MSG
+Advarsel: Du kan ikke angre\nen sletting! Vil du slette\n\%s?
+; Warning: you cannot get back\nwhat you delete! Ok to delete\n\%s?
+;
+MSG_FILEREQ_DELETE_OKCANCEL
+Slett|Avbryt
+; Delete|Cancel
+;
+MSG_FILEREQ_FOREIGNER_TITLE
+Ikoner sluppet fra ulike skuffer
+; Icons dropped from different drawers
+;
+MSG_FILEREQ_FOREIGNER_MSG
+Advarsel: Ikonene som nettopp ble sluppet\nkommer ikke alle fra samme skuff.\nForespørselen kunne ikke håndtere følgende filer:\n%s
+; Warning: The icons that have just been dropped\ndo not all come from the same drawer.\nThe requester could not handle the following files:\n%s
+;
+MSG_FILEREQ_FOREIGNER_OK
+OK
+; OK
+;
+MSG_FILEREQ_RENAME_TITLE
+Endre navn
+; Rename
+;
+MSG_FILEREQ_RENAME_OK
+Endre navn
+; Rename
+;
+MSG_FILEREQ_RENAME_CANCEL
+Avbryt
+; Cancel
+;
+MSG_FILEREQ_CREATEDRAWER_TITLE
+Lag skuff
+; Create Drawer
+;
+MSG_FILEREQ_CREATEDRAWER_OK
+Lag
+; Create
+;
+MSG_FILEREQ_CREATEDRAWER_CANCEL
+Avbryt
+; Cancel
+;
+MSG_FILEREQ_CREATEDRAWER_DEFNAME
+Endre _navn
+; Rename_Me
+;
+MSG_FILEREQ_SELECT_TITLE
+Velg etter mønster
+; Select by pattern
+;
+MSG_FILEREQ_SELECT_OK
+Velg
+; Select
+;
+MSG_FILEREQ_SELECT_CANCEL
+Avbryt
+; Cancel
+;
+MSG_FILEREQ_MEN_CONTROL
+Kontroll
+; Control
+;
+MSG_FILEREQ_MEN_CONTROL_LASTNAME
+L\0Forrige navn
+; L\0Last Name
+;
+MSG_FILEREQ_MEN_CONTROL_NEXTNAME
+N\0Neste navn
+; N\0Next Name
+;
+MSG_FILEREQ_MEN_CONTROL_RESTORE
+R\00Tilbakestill
+; R\0Restore
+;
+MSG_FILEREQ_MEN_CONTROL_PARENT
+P\0Skuffen over
+; P\0Parent
+;
+MSG_FILEREQ_MEN_CONTROL_VOLUMES
+V\0Volumer
+; V\0Volumes
+;
+MSG_FILEREQ_MEN_CONTROL_UPDATE
+U\0Oppdater
+; U\0Update
+;
+MSG_FILEREQ_MEN_CONTROL_DELETE
+D\0Slett
+; D\0Delete
+;
+MSG_FILEREQ_MEN_CONTROL_CREATEDRAWER
+T\0Lag ny skuff...
+; T\0Create new drawer...
+;
+MSG_FILEREQ_MEN_CONTROL_RENAME
+E\0Endre navn...
+; E\0Rename...
+;
+MSG_FILEREQ_MEN_CONTROL_SELECT
+#\0Velg...
+; #\0Select...
+;
+MSG_FILEREQ_MEN_CONTROL_OK
+O\0Ok
+; O\0Ok
+;
+MSG_FILEREQ_MEN_CONTROL_CANCEL
+A\0Avbryt
+; C\0Cancel
+;
+MSG_FILEREQ_MEN_FILELIST
+Filliste
+; File list
+;
+MSG_FILEREQ_MEN_FILELIST_SORTNAME
+1\0Sorter etter navn
+; 1\0Sort by name
+;
+MSG_FILEREQ_MEN_FILELIST_SORTDATE
+2\0Sorter etter dato
+; 2\0Sort by date
+;
+MSG_FILEREQ_MEN_FILELIST_SORTSIZE
+3\0Sorter etter størrelse
+; 3\0Sort by size
+;
+MSG_FILEREQ_MEN_FILELIST_SORTUP
++\0Stigende rekkefølge
+; +\0Ascending order
+;
+MSG_FILEREQ_MEN_FILELIST_SORTDOWN
+-\0Synkende rekkefølge
+; -\0Descending order
+;
+MSG_FILEREQ_MEN_FILELIST_SORTDRAWERFIRST
+4\0Vis skuffer først
+; 4\0Show drawers first
+;
+MSG_FILEREQ_MEN_FILELIST_SORTDRAWERSAME
+5\0Vis skuffer sammen med filer
+; 5\0Show drawers with files
+;
+MSG_FILEREQ_MEN_FILELIST_SORTDRAWERLAST
+6\0Vis skuffer sist
+; 6\0Show drawers last
+;
+MSG_MODEREQ_TITLE
+Velg skjermmodus
+; Select Screen Mode
+;
+MSG_MODEREQ_POSITIVE_GAD
+Ok
+; Ok
+;
+MSG_MODEREQ_NEGATIVE_GAD
+Avbryt
+; Cancel
+;
+MSG_MODEREQ_OVERSCAN_LABEL
+Overscan
+; Overscan
+;
+MSG_MODEREQ_OVERSCAN_TEXT
+Tekststørrelse
+; Text Size
+;
+MSG_MODEREQ_OVERSCAN_GRAPHICS
+Grafikkstørrelse
+; Graphics Size
+;
+MSG_MODEREQ_OVERSCAN_EXTREME
+Ekstrem størrelse
+; Extreme Size
+;
+MSG_MODEREQ_OVERSCAN_MAXIMUM
+Maksimal størrelse
+; Maximum Size
+;
+MSG_MODEREQ_WIDTH_LABEL
+Bredde
+; Width
+;
+MSG_MODEREQ_HEIGHT_LABEL
+Høyde
+; Height
+;
+MSG_MODEREQ_COLORS_LABEL
+Farger
+; Colors
+;
+MSG_MODEREQ_AUTOSCROLL_LABEL
+Autorulling
+; AutoScroll
+;
+MSG_MODEREQ_AUTOSCROLL_OFF
+AV
+; OFF
+;
+MSG_MODEREQ_AUTOSCROLL_ON
+PÅ
+; ON
+;
+MSG_MODEREQ_PROPERTIES_TITLE
+Modus egenskaper
+; Mode Properties
+;
+MSG_MODEREQ_PROPERTIES_NOTWB
+Støtter ikke Workbench
+; Does not support Workbench
+;
+MSG_MODEREQ_PROPERTIES_NOTGENLOCK
+Støtter ikke genlock
+; Does not support genlock
+;
+MSG_MODEREQ_PROPERTIES_NOTDRAG
+Kan ikke dras
+; Not draggable
+;
+MSG_MODEREQ_PROPERTIES_HAM
+Hold & Modify
+; Hold & Modify
+;
+MSG_MODEREQ_PROPERTIES_EHB
+Extra-HalfBright
+; Extra-HalfBright
+;
+MSG_MODEREQ_PROPERTIES_LACE
+Linjeflettet
+; Interlaced
+;
+MSG_MODEREQ_PROPERTIES_ECS
+Krever ECS
+; Requires ECS
+;
+MSG_MODEREQ_PROPERTIES_WB
+Støtter Workbench
+; Supports Workbench
+;
+MSG_MODEREQ_PROPERTIES_GENLOCK
+Støtter genlock
+; Supports genlock
+;
+MSG_MODEREQ_PROPERTIES_DRAG
+Kan dras
+; Draggable
+;
+MSG_MODEREQ_PROPERTIES_DPFPRI2
+DualPlayfield prioritet 2
+; DualPlayfield Priority 2
+;
+MSG_MODEREQ_PROPERTIES_REFRESHRATE
+%ldHz, %ld,%ldkHz
+; %ldHz, %ld,%ldkHz
+;
+MSG_MODEREQ_MEN_CONTROL
+Kontroll
+; Control
+;
+MSG_MODEREQ_MEN_CONTROL_LASTMODE
+L\0Forrige modus
+; L\0Last Mode
+;
+MSG_MODEREQ_MEN_CONTROL_NEXTMODE
+N\0Neste modus
+; N\0Next Mode
+;
+MSG_MODEREQ_MEN_CONTROL_PROPERTIES
+?\0Egenskapsliste...
+; ?\0Property List...
+;
+MSG_MODEREQ_MEN_CONTROL_RESTORE
+R\00Tilbakestill
+; R\0Restore
+;
+MSG_MODEREQ_MEN_CONTROL_OK
+O\0Ok
+; O\0Ok
+;
+MSG_MODEREQ_MEN_CONTROL_CANCEL
+A\0Avbryt
+; C\0Cancel
+;
+MSG_FONTREQ_TITLE
+Velg skrifttype
+; Select Font
+;
+MSG_FONTREQ_POSITIVE_GAD
+Ok
+; Ok
+;
+MSG_FONTREQ_NEGATIVE_GAD
+Avbryt
+; Cancel
+;
+MSG_FONTREQ_MEN_CONTROL
+Kontroll
+; Control
+;
+MSG_FONTREQ_MEN_CONTROL_LASTFONT
+L\0Forrige skrifttype
+; L\0Last Font
+;
+MSG_FONTREQ_MEN_CONTROL_NEXTFONT
+N\0Neste skrifttype
+; N\0Next Font
+;
+MSG_FONTREQ_MEN_CONTROL_RESTORE
+R\00Tilbakestill
+; R\0Restore
+;
+MSG_FONTREQ_MEN_CONTROL_RESCAN
+D\0Skann disken på nytt
+; D\0Rescan Disk
+;
+MSG_FONTREQ_MEN_CONTROL_OK
+O\0Ok
+; O\0Ok
+;
+MSG_FONTREQ_MEN_CONTROL_CANCEL
+A\0Avbryt
+; C\0Cancel
+;
+MSG_FONTREQ_MODE_LABEL
+Modus
+; Mode
+;
+MSG_FONTREQ_MODE_TEXT
+Tekst
+; Text
+;
+MSG_FONTREQ_MODE_TEXTANDFIELD
+Tekst+Felt
+; Text+Field
+;
+MSG_FONTREQ_MODE_COMPLEMENT
+Komplement
+; Complement
+;
+MSG_FONTREQ_STYLE_LABEL
+Stil
+; Style
+;
+MSG_FONTREQ_STYLE_BOLD
+B
+; B
+;
+MSG_FONTREQ_STYLE_ITALIC
+I
+; I
+;
+MSG_FONTREQ_STYLE_UNDERLINED
+G
+; U
+;
+MSG_FONTREQ_COLOR_LABEL_FG
+Farge
+; Color
+;
+MSG_FONTREQ_COLOR_LABEL_BG
+BG-farge
+; BG Color
+;
+MSG_FONTREQ_COLOR_LABEL_FGBG
+Farger
+; Colors
+;

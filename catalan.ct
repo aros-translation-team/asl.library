@@ -1,0 +1,416 @@
+## version $VER: asl.catalog 2.0 (06.08.2026)
+## language català
+## codeset 0
+;
+MSG_FILEREQ_TITLE
+Seleccionar fitxer
+; Select File
+;
+MSG_FILEREQ_POSITIVE_GAD
+D'acord
+; Ok
+;
+MSG_FILEREQ_NEGATIVE_GAD
+Cancel.lar
+; Cancel
+;
+MSG_FILEREQ_VOLUMES_GAD
+Volums
+; Volumes
+;
+MSG_FILEREQ_PARENT_GAD
+Pare
+; Parent
+;
+MSG_FILEREQ_PATTERN_LABEL
+Patró
+; Pattern
+;
+MSG_FILEREQ_DRAWER_LABEL
+Calaix
+; Drawer
+;
+MSG_FILEREQ_FILE_LABEL
+Fitxer
+; File
+;
+MSG_FILEREQ_LV_DRAWER
+Calaix
+; Drawer
+;
+MSG_FILEREQ_LV_ASSIGN
+Assignació
+; Assign
+;
+MSG_FILEREQ_DELETE_TITLE
+Esborrar fitxer
+; Delete File
+;
+MSG_FILEREQ_DELETE_MSG
+Avís: no podreu recuperar\nel que esborreu! Voleu esborrar\n\%s?
+; Warning: you cannot get back\nwhat you delete! Ok to delete\n\%s?
+;
+MSG_FILEREQ_DELETE_OKCANCEL
+Esborrar|Cancel·lar
+; Delete|Cancel
+;
+MSG_FILEREQ_FOREIGNER_TITLE
+Icones deixades anar des de calaixos diferents
+; Icons dropped from different drawers
+;
+MSG_FILEREQ_FOREIGNER_MSG
+Avís: les icones que s'acaben de deixar anar\nno provenen totes del mateix calaix.\nEl requester no ha pogut gestionar els fitxers següents:\n%s
+; Warning: The icons that have just been dropped\ndo not all come from the same drawer.\nThe requester could not handle the following files:\n%s
+;
+MSG_FILEREQ_FOREIGNER_OK
+D'Acord
+; OK
+;
+MSG_FILEREQ_RENAME_TITLE
+Reanomenar
+; Rename
+;
+MSG_FILEREQ_RENAME_OK
+Reanomenar
+; Rename
+;
+MSG_FILEREQ_RENAME_CANCEL
+Cancel.lar
+; Cancel
+;
+MSG_FILEREQ_CREATEDRAWER_TITLE
+Crear calaix
+; Create Drawer
+;
+MSG_FILEREQ_CREATEDRAWER_OK
+Crear
+; Create
+;
+MSG_FILEREQ_CREATEDRAWER_CANCEL
+Cancel.lar
+; Cancel
+;
+MSG_FILEREQ_CREATEDRAWER_DEFNAME
+Canvia'm_el_nom
+; Rename_Me
+;
+MSG_FILEREQ_SELECT_TITLE
+Seleccionar per patró
+; Select by pattern
+;
+MSG_FILEREQ_SELECT_OK
+Seleccionar
+; Select
+;
+MSG_FILEREQ_SELECT_CANCEL
+Cancel.lar
+; Cancel
+;
+MSG_FILEREQ_MEN_CONTROL
+Control
+; Control
+;
+MSG_FILEREQ_MEN_CONTROL_LASTNAME
+L\0Últim nom
+; L\0Last Name
+;
+MSG_FILEREQ_MEN_CONTROL_NEXTNAME
+N\0Nom següent
+; N\0Next Name
+;
+MSG_FILEREQ_MEN_CONTROL_RESTORE
+R\0Restaurar
+; R\0Restore
+;
+MSG_FILEREQ_MEN_CONTROL_PARENT
+P\0Pare
+; P\0Parent
+;
+MSG_FILEREQ_MEN_CONTROL_VOLUMES
+V\0Volums
+; V\0Volumes
+;
+MSG_FILEREQ_MEN_CONTROL_UPDATE
+U\0Actualitzar
+; U\0Update
+;
+MSG_FILEREQ_MEN_CONTROL_DELETE
+D\0Esborrar
+; D\0Delete
+;
+MSG_FILEREQ_MEN_CONTROL_CREATEDRAWER
+T\0Crear calaix nou...
+; T\0Create new drawer...
+;
+MSG_FILEREQ_MEN_CONTROL_RENAME
+E\0Reanomenar...
+; E\0Rename...
+;
+MSG_FILEREQ_MEN_CONTROL_SELECT
+#\0Seleccionar...
+; #\0Select...
+;
+MSG_FILEREQ_MEN_CONTROL_OK
+O\0D'acord
+; O\0Ok
+;
+MSG_FILEREQ_MEN_CONTROL_CANCEL
+C\0Cancel·lar
+; C\0Cancel
+;
+MSG_FILEREQ_MEN_FILELIST
+Llista de fitxers
+; File list
+;
+MSG_FILEREQ_MEN_FILELIST_SORTNAME
+1\0Ordenar per nom
+; 1\0Sort by name
+;
+MSG_FILEREQ_MEN_FILELIST_SORTDATE
+2\0Ordenar per data
+; 2\0Sort by date
+;
+MSG_FILEREQ_MEN_FILELIST_SORTSIZE
+3\0Ordenar per mida
+; 3\0Sort by size
+;
+MSG_FILEREQ_MEN_FILELIST_SORTUP
++\0Ordre ascendent
+; +\0Ascending order
+;
+MSG_FILEREQ_MEN_FILELIST_SORTDOWN
+-\0Ordre descendent
+; -\0Descending order
+;
+MSG_FILEREQ_MEN_FILELIST_SORTDRAWERFIRST
+4\0Mostrar calaixos primer
+; 4\0Show drawers first
+;
+MSG_FILEREQ_MEN_FILELIST_SORTDRAWERSAME
+5\0Mostrar calaixos amb fitxers
+; 5\0Show drawers with files
+;
+MSG_FILEREQ_MEN_FILELIST_SORTDRAWERLAST
+6\0Mostrar calaixos al final
+; 6\0Show drawers last
+;
+MSG_MODEREQ_TITLE
+Seleccionar mode de pantalla
+; Select Screen Mode
+;
+MSG_MODEREQ_POSITIVE_GAD
+D'acord
+; Ok
+;
+MSG_MODEREQ_NEGATIVE_GAD
+Cancel.lar
+; Cancel
+;
+MSG_MODEREQ_OVERSCAN_LABEL
+Overscan
+; Overscan
+;
+MSG_MODEREQ_OVERSCAN_TEXT
+Mida de text
+; Text Size
+;
+MSG_MODEREQ_OVERSCAN_GRAPHICS
+Mida de gràfics
+; Graphics Size
+;
+MSG_MODEREQ_OVERSCAN_EXTREME
+Mida extrema
+; Extreme Size
+;
+MSG_MODEREQ_OVERSCAN_MAXIMUM
+Mida màxima
+; Maximum Size
+;
+MSG_MODEREQ_WIDTH_LABEL
+Amplada
+; Width
+;
+MSG_MODEREQ_HEIGHT_LABEL
+Alçada
+; Height
+;
+MSG_MODEREQ_COLORS_LABEL
+Colors
+; Colors
+;
+MSG_MODEREQ_AUTOSCROLL_LABEL
+Desplaçament automàtic
+; AutoScroll
+;
+MSG_MODEREQ_AUTOSCROLL_OFF
+DESACTIVAT
+; OFF
+;
+MSG_MODEREQ_AUTOSCROLL_ON
+ACTIVAT
+; ON
+;
+MSG_MODEREQ_PROPERTIES_TITLE
+Propietats del mode
+; Mode Properties
+;
+MSG_MODEREQ_PROPERTIES_NOTWB
+No admet Workbench
+; Does not support Workbench
+;
+MSG_MODEREQ_PROPERTIES_NOTGENLOCK
+No admet genlock
+; Does not support genlock
+;
+MSG_MODEREQ_PROPERTIES_NOTDRAG
+No arrossegable
+; Not draggable
+;
+MSG_MODEREQ_PROPERTIES_HAM
+Hold & Modify
+; Hold & Modify
+;
+MSG_MODEREQ_PROPERTIES_EHB
+Extra-HalfBright
+; Extra-HalfBright
+;
+MSG_MODEREQ_PROPERTIES_LACE
+Entrellaçat
+; Interlaced
+;
+MSG_MODEREQ_PROPERTIES_ECS
+Requereix ECS
+; Requires ECS
+;
+MSG_MODEREQ_PROPERTIES_WB
+Admet Workbench
+; Supports Workbench
+;
+MSG_MODEREQ_PROPERTIES_GENLOCK
+Admet genlock
+; Supports genlock
+;
+MSG_MODEREQ_PROPERTIES_DRAG
+Arrossegable
+; Draggable
+;
+MSG_MODEREQ_PROPERTIES_DPFPRI2
+Prioritat 2 de DualPlayfield
+; DualPlayfield Priority 2
+;
+MSG_MODEREQ_PROPERTIES_REFRESHRATE
+%ldHz, %ld,%ldkHz
+; %ldHz, %ld,%ldkHz
+;
+MSG_MODEREQ_MEN_CONTROL
+Control
+; Control
+;
+MSG_MODEREQ_MEN_CONTROL_LASTMODE
+L\0Últim mode
+; L\0Last Mode
+;
+MSG_MODEREQ_MEN_CONTROL_NEXTMODE
+N\0Mode següent
+; N\0Next Mode
+;
+MSG_MODEREQ_MEN_CONTROL_PROPERTIES
+?\0Llista de propietats...
+; ?\0Property List...
+;
+MSG_MODEREQ_MEN_CONTROL_RESTORE
+R\0Restaurar
+; R\0Restore
+;
+MSG_MODEREQ_MEN_CONTROL_OK
+O\0D'acord
+; O\0Ok
+;
+MSG_MODEREQ_MEN_CONTROL_CANCEL
+C\0Cancel·lar
+; C\0Cancel
+;
+MSG_FONTREQ_TITLE
+Seleccionar font
+; Select Font
+;
+MSG_FONTREQ_POSITIVE_GAD
+D'acord
+; Ok
+;
+MSG_FONTREQ_NEGATIVE_GAD
+Cancel.lar
+; Cancel
+;
+MSG_FONTREQ_MEN_CONTROL
+Control
+; Control
+;
+MSG_FONTREQ_MEN_CONTROL_LASTFONT
+L\0Última font
+; L\0Last Font
+;
+MSG_FONTREQ_MEN_CONTROL_NEXTFONT
+N\0Font següent
+; N\0Next Font
+;
+MSG_FONTREQ_MEN_CONTROL_RESTORE
+R\0Restaurar
+; R\0Restore
+;
+MSG_FONTREQ_MEN_CONTROL_RESCAN
+D\0Reexplorar el disc
+; D\0Rescan Disk
+;
+MSG_FONTREQ_MEN_CONTROL_OK
+O\0D'acord
+; O\0Ok
+;
+MSG_FONTREQ_MEN_CONTROL_CANCEL
+C\0Cancel·lar
+; C\0Cancel
+;
+MSG_FONTREQ_MODE_LABEL
+Mode
+; Mode
+;
+MSG_FONTREQ_MODE_TEXT
+Text
+; Text
+;
+MSG_FONTREQ_MODE_TEXTANDFIELD
+Text+Camp
+; Text+Field
+;
+MSG_FONTREQ_MODE_COMPLEMENT
+Complement
+; Complement
+;
+MSG_FONTREQ_STYLE_LABEL
+Estil
+; Style
+;
+MSG_FONTREQ_STYLE_BOLD
+N
+; B
+;
+MSG_FONTREQ_STYLE_ITALIC
+C
+; I
+;
+MSG_FONTREQ_STYLE_UNDERLINED
+S
+; U
+;
+MSG_FONTREQ_COLOR_LABEL_FG
+Color
+; Color
+;
+MSG_FONTREQ_COLOR_LABEL_BG
+Color de fons
+; BG Color
+;
+MSG_FONTREQ_COLOR_LABEL_FGBG
+Colors
+; Colors
+;

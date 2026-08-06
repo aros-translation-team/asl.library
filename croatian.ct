@@ -1,0 +1,416 @@
+## version $VER: asl.catalog 2.0 (06.08.2026)
+## language hrvatski
+## codeset 5
+;
+MSG_FILEREQ_TITLE
+Odaberi Datoteku
+; Select File
+;
+MSG_FILEREQ_POSITIVE_GAD
+U redu
+; Ok
+;
+MSG_FILEREQ_NEGATIVE_GAD
+Odustani
+; Cancel
+;
+MSG_FILEREQ_VOLUMES_GAD
+Volumeni
+; Volumes
+;
+MSG_FILEREQ_PARENT_GAD
+Prethodni
+; Parent
+;
+MSG_FILEREQ_PATTERN_LABEL
+Uzorak
+; Pattern
+;
+MSG_FILEREQ_DRAWER_LABEL
+Mapa
+; Drawer
+;
+MSG_FILEREQ_FILE_LABEL
+Datoteka
+; File
+;
+MSG_FILEREQ_LV_DRAWER
+Mapa
+; Drawer
+;
+MSG_FILEREQ_LV_ASSIGN
+Assign
+; Assign
+;
+MSG_FILEREQ_DELETE_TITLE
+Izbri¹i Datoteku
+; Delete File
+;
+MSG_FILEREQ_DELETE_MSG
+Upozorenje: ne mo¾ete vratiti\nono ¹to izbri¹ete! Izbrisati\n\%s?
+; Warning: you cannot get back\nwhat you delete! Ok to delete\n\%s?
+;
+MSG_FILEREQ_DELETE_OKCANCEL
+Izbri¹i|Odustani
+; Delete|Cancel
+;
+MSG_FILEREQ_FOREIGNER_TITLE
+Ikone ispu¹tene iz razlièitih mapa
+; Icons dropped from different drawers
+;
+MSG_FILEREQ_FOREIGNER_MSG
+Upozorenje: Ikone koje su upravo ispu¹tene\nne dolaze sve iz iste mape.\nZahtjevnik nije mogao obraditi sljedeæe datoteke:\n%s
+; Warning: The icons that have just been dropped\ndo not all come from the same drawer.\nThe requester could not handle the following files:\n%s
+;
+MSG_FILEREQ_FOREIGNER_OK
+U redu
+; OK
+;
+MSG_FILEREQ_RENAME_TITLE
+Preimenuj
+; Rename
+;
+MSG_FILEREQ_RENAME_OK
+Preimenuj
+; Rename
+;
+MSG_FILEREQ_RENAME_CANCEL
+Odustani
+; Cancel
+;
+MSG_FILEREQ_CREATEDRAWER_TITLE
+Stvori Mapu
+; Create Drawer
+;
+MSG_FILEREQ_CREATEDRAWER_OK
+Stvori
+; Create
+;
+MSG_FILEREQ_CREATEDRAWER_CANCEL
+Odustani
+; Cancel
+;
+MSG_FILEREQ_CREATEDRAWER_DEFNAME
+Nova_Mapa
+; Rename_Me
+;
+MSG_FILEREQ_SELECT_TITLE
+Odaberi po uzorku
+; Select by pattern
+;
+MSG_FILEREQ_SELECT_OK
+Odaberi
+; Select
+;
+MSG_FILEREQ_SELECT_CANCEL
+Odustani
+; Cancel
+;
+MSG_FILEREQ_MEN_CONTROL
+Kontrola
+; Control
+;
+MSG_FILEREQ_MEN_CONTROL_LASTNAME
+L\0Zadnje Ime
+; L\0Last Name
+;
+MSG_FILEREQ_MEN_CONTROL_NEXTNAME
+N\0Sljedeæe Ime
+; N\0Next Name
+;
+MSG_FILEREQ_MEN_CONTROL_RESTORE
+R\0Povrat
+; R\0Restore
+;
+MSG_FILEREQ_MEN_CONTROL_PARENT
+P\0Matièna Mapa
+; P\0Parent
+;
+MSG_FILEREQ_MEN_CONTROL_VOLUMES
+V\0Volumeni
+; V\0Volumes
+;
+MSG_FILEREQ_MEN_CONTROL_UPDATE
+U\0A¾uriraj
+; U\0Update
+;
+MSG_FILEREQ_MEN_CONTROL_DELETE
+D\0Izbri¹i
+; D\0Delete
+;
+MSG_FILEREQ_MEN_CONTROL_CREATEDRAWER
+T\0Stvori novu mapu...
+; T\0Create new drawer...
+;
+MSG_FILEREQ_MEN_CONTROL_RENAME
+E\0Preimenuj...
+; E\0Rename...
+;
+MSG_FILEREQ_MEN_CONTROL_SELECT
+#\0Odaberi...
+; #\0Select...
+;
+MSG_FILEREQ_MEN_CONTROL_OK
+O\0U redu
+; O\0Ok
+;
+MSG_FILEREQ_MEN_CONTROL_CANCEL
+C\0Odustani
+; C\0Cancel
+;
+MSG_FILEREQ_MEN_FILELIST
+Popis datoteka
+; File list
+;
+MSG_FILEREQ_MEN_FILELIST_SORTNAME
+1\0Poredaj po imenu
+; 1\0Sort by name
+;
+MSG_FILEREQ_MEN_FILELIST_SORTDATE
+2\0Poredaj po datumu
+; 2\0Sort by date
+;
+MSG_FILEREQ_MEN_FILELIST_SORTSIZE
+3\0Poredaj po velièini
+; 3\0Sort by size
+;
+MSG_FILEREQ_MEN_FILELIST_SORTUP
++\0Uzlazni redoslijed
+; +\0Ascending order
+;
+MSG_FILEREQ_MEN_FILELIST_SORTDOWN
+-\0Silazni redoslijed
+; -\0Descending order
+;
+MSG_FILEREQ_MEN_FILELIST_SORTDRAWERFIRST
+4\0Prika¾i mape na poèetku
+; 4\0Show drawers first
+;
+MSG_FILEREQ_MEN_FILELIST_SORTDRAWERSAME
+5\0Prika¾i mape s datotekama
+; 5\0Show drawers with files
+;
+MSG_FILEREQ_MEN_FILELIST_SORTDRAWERLAST
+6\0Prika¾i mape na kraju
+; 6\0Show drawers last
+;
+MSG_MODEREQ_TITLE
+Odaberi Mod Zaslona
+; Select Screen Mode
+;
+MSG_MODEREQ_POSITIVE_GAD
+U redu
+; Ok
+;
+MSG_MODEREQ_NEGATIVE_GAD
+Odustani
+; Cancel
+;
+MSG_MODEREQ_OVERSCAN_LABEL
+Overscan
+; Overscan
+;
+MSG_MODEREQ_OVERSCAN_TEXT
+Velièina Teksta
+; Text Size
+;
+MSG_MODEREQ_OVERSCAN_GRAPHICS
+Velièina Grafike
+; Graphics Size
+;
+MSG_MODEREQ_OVERSCAN_EXTREME
+Ekstremna Velièina
+; Extreme Size
+;
+MSG_MODEREQ_OVERSCAN_MAXIMUM
+Maksimalna Velièina
+; Maximum Size
+;
+MSG_MODEREQ_WIDTH_LABEL
+©irina
+; Width
+;
+MSG_MODEREQ_HEIGHT_LABEL
+Visina
+; Height
+;
+MSG_MODEREQ_COLORS_LABEL
+Boje
+; Colors
+;
+MSG_MODEREQ_AUTOSCROLL_LABEL
+Auto-pomicanje
+; AutoScroll
+;
+MSG_MODEREQ_AUTOSCROLL_OFF
+ISKLJ.
+; OFF
+;
+MSG_MODEREQ_AUTOSCROLL_ON
+UKLJ.
+; ON
+;
+MSG_MODEREQ_PROPERTIES_TITLE
+Osobine naèina
+; Mode Properties
+;
+MSG_MODEREQ_PROPERTIES_NOTWB
+Ne podr¾ava Workbench
+; Does not support Workbench
+;
+MSG_MODEREQ_PROPERTIES_NOTGENLOCK
+Ne podr¾ava genlock
+; Does not support genlock
+;
+MSG_MODEREQ_PROPERTIES_NOTDRAG
+Nepomièan
+; Not draggable
+;
+MSG_MODEREQ_PROPERTIES_HAM
+Hold & Modify
+; Hold & Modify
+;
+MSG_MODEREQ_PROPERTIES_EHB
+Extra-HalfBright
+; Extra-HalfBright
+;
+MSG_MODEREQ_PROPERTIES_LACE
+S preplitanjem
+; Interlaced
+;
+MSG_MODEREQ_PROPERTIES_ECS
+Zahtijeva ECS
+; Requires ECS
+;
+MSG_MODEREQ_PROPERTIES_WB
+Podr¾ava Workbench
+; Supports Workbench
+;
+MSG_MODEREQ_PROPERTIES_GENLOCK
+Podr¾ava genlock
+; Supports genlock
+;
+MSG_MODEREQ_PROPERTIES_DRAG
+Pomièan
+; Draggable
+;
+MSG_MODEREQ_PROPERTIES_DPFPRI2
+DualPlayfield Prioritet 2
+; DualPlayfield Priority 2
+;
+MSG_MODEREQ_PROPERTIES_REFRESHRATE
+%ldHz, %ld,%ldkHz
+; %ldHz, %ld,%ldkHz
+;
+MSG_MODEREQ_MEN_CONTROL
+Kontrola
+; Control
+;
+MSG_MODEREQ_MEN_CONTROL_LASTMODE
+L\0Zadnji Mod
+; L\0Last Mode
+;
+MSG_MODEREQ_MEN_CONTROL_NEXTMODE
+N\0Sljedeæi Mod
+; N\0Next Mode
+;
+MSG_MODEREQ_MEN_CONTROL_PROPERTIES
+?\0Popis Svojstava...
+; ?\0Property List...
+;
+MSG_MODEREQ_MEN_CONTROL_RESTORE
+R\0Povrat
+; R\0Restore
+;
+MSG_MODEREQ_MEN_CONTROL_OK
+O\0U redu
+; O\0Ok
+;
+MSG_MODEREQ_MEN_CONTROL_CANCEL
+C\0Odustani
+; C\0Cancel
+;
+MSG_FONTREQ_TITLE
+Odaberi Slovo
+; Select Font
+;
+MSG_FONTREQ_POSITIVE_GAD
+U redu
+; Ok
+;
+MSG_FONTREQ_NEGATIVE_GAD
+Odustani
+; Cancel
+;
+MSG_FONTREQ_MEN_CONTROL
+Kontrola
+; Control
+;
+MSG_FONTREQ_MEN_CONTROL_LASTFONT
+L\0Zadnje Slovo
+; L\0Last Font
+;
+MSG_FONTREQ_MEN_CONTROL_NEXTFONT
+N\0Sljedeæe Slovo
+; N\0Next Font
+;
+MSG_FONTREQ_MEN_CONTROL_RESTORE
+R\0Povrat
+; R\0Restore
+;
+MSG_FONTREQ_MEN_CONTROL_RESCAN
+D\0Ponovno Oèitaj Disk
+; D\0Rescan Disk
+;
+MSG_FONTREQ_MEN_CONTROL_OK
+O\0U redu
+; O\0Ok
+;
+MSG_FONTREQ_MEN_CONTROL_CANCEL
+C\0Odustani
+; C\0Cancel
+;
+MSG_FONTREQ_MODE_LABEL
+Mod
+; Mode
+;
+MSG_FONTREQ_MODE_TEXT
+Tekst
+; Text
+;
+MSG_FONTREQ_MODE_TEXTANDFIELD
+Tekst+Polje
+; Text+Field
+;
+MSG_FONTREQ_MODE_COMPLEMENT
+Komplement
+; Complement
+;
+MSG_FONTREQ_STYLE_LABEL
+Stil
+; Style
+;
+MSG_FONTREQ_STYLE_BOLD
+B
+; B
+;
+MSG_FONTREQ_STYLE_ITALIC
+I
+; I
+;
+MSG_FONTREQ_STYLE_UNDERLINED
+U
+; U
+;
+MSG_FONTREQ_COLOR_LABEL_FG
+Boja
+; Color
+;
+MSG_FONTREQ_COLOR_LABEL_BG
+Boja Podloge
+; BG Color
+;
+MSG_FONTREQ_COLOR_LABEL_FGBG
+Boje
+; Colors
+;

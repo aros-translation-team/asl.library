@@ -1,0 +1,416 @@
+## version $VER: asl.catalog 2.0 (06.08.2026)
+## language magyar
+## codeset 5
+;
+MSG_FILEREQ_TITLE
+Fájl kiválasztása
+; Select File
+;
+MSG_FILEREQ_POSITIVE_GAD
+Rendben
+; Ok
+;
+MSG_FILEREQ_NEGATIVE_GAD
+Mégsem
+; Cancel
+;
+MSG_FILEREQ_VOLUMES_GAD
+Egységek
+; Volumes
+;
+MSG_FILEREQ_PARENT_GAD
+Szülõ
+; Parent
+;
+MSG_FILEREQ_PATTERN_LABEL
+Minta
+; Pattern
+;
+MSG_FILEREQ_DRAWER_LABEL
+Fiók
+; Drawer
+;
+MSG_FILEREQ_FILE_LABEL
+Állomány
+; File
+;
+MSG_FILEREQ_LV_DRAWER
+Fiók
+; Drawer
+;
+MSG_FILEREQ_LV_ASSIGN
+Logikai
+; Assign
+;
+MSG_FILEREQ_DELETE_TITLE
+Fájl törlése
+; Delete File
+;
+MSG_FILEREQ_DELETE_MSG
+Figyelem: amit letörölsz, azt nem\nlehet visszahozni! Törölhetem:\n\%s?
+; Warning: you cannot get back\nwhat you delete! Ok to delete\n\%s?
+;
+MSG_FILEREQ_DELETE_OKCANCEL
+Törlés|Mégsem
+; Delete|Cancel
+;
+MSG_FILEREQ_FOREIGNER_TITLE
+Különbözõ fiókokból ejtett ikonok
+; Icons dropped from different drawers
+;
+MSG_FILEREQ_FOREIGNER_MSG
+Figyelem: A most ejtett ikonok nem\nmind ugyanabból a fiókból származnak.\nA requester nem tudta kezelni a következõ fájlokat:\n%s
+; Warning: The icons that have just been dropped\ndo not all come from the same drawer.\nThe requester could not handle the following files:\n%s
+;
+MSG_FILEREQ_FOREIGNER_OK
+Oké
+; OK
+;
+MSG_FILEREQ_RENAME_TITLE
+Átnevezés
+; Rename
+;
+MSG_FILEREQ_RENAME_OK
+Átnevezés
+; Rename
+;
+MSG_FILEREQ_RENAME_CANCEL
+Mégsem
+; Cancel
+;
+MSG_FILEREQ_CREATEDRAWER_TITLE
+Fiók létrehozása
+; Create Drawer
+;
+MSG_FILEREQ_CREATEDRAWER_OK
+Létrehoz
+; Create
+;
+MSG_FILEREQ_CREATEDRAWER_CANCEL
+Mégsem
+; Cancel
+;
+MSG_FILEREQ_CREATEDRAWER_DEFNAME
+Nevezz_Át
+; Rename_Me
+;
+MSG_FILEREQ_SELECT_TITLE
+Kijelölés minta alapján
+; Select by pattern
+;
+MSG_FILEREQ_SELECT_OK
+Kijelöl
+; Select
+;
+MSG_FILEREQ_SELECT_CANCEL
+Mégsem
+; Cancel
+;
+MSG_FILEREQ_MEN_CONTROL
+Vezérlés
+; Control
+;
+MSG_FILEREQ_MEN_CONTROL_LASTNAME
+L\0Elõzõ név
+; L\0Last Name
+;
+MSG_FILEREQ_MEN_CONTROL_NEXTNAME
+N\0Következõ név
+; N\0Next Name
+;
+MSG_FILEREQ_MEN_CONTROL_RESTORE
+V\0Visszaállít
+; R\0Restore
+;
+MSG_FILEREQ_MEN_CONTROL_PARENT
+P\0Szülõ
+; P\0Parent
+;
+MSG_FILEREQ_MEN_CONTROL_VOLUMES
+V\0Egységek
+; V\0Volumes
+;
+MSG_FILEREQ_MEN_CONTROL_UPDATE
+U\0Frissítés
+; U\0Update
+;
+MSG_FILEREQ_MEN_CONTROL_DELETE
+D\0Törlés
+; D\0Delete
+;
+MSG_FILEREQ_MEN_CONTROL_CREATEDRAWER
+T\0Új fiók létrehozása...
+; T\0Create new drawer...
+;
+MSG_FILEREQ_MEN_CONTROL_RENAME
+E\0Átnevezés...
+; E\0Rename...
+;
+MSG_FILEREQ_MEN_CONTROL_SELECT
+#\0Kijelölés...
+; #\0Select...
+;
+MSG_FILEREQ_MEN_CONTROL_OK
+O\0Rendben
+; O\0Ok
+;
+MSG_FILEREQ_MEN_CONTROL_CANCEL
+Mégsem
+; C\0Cancel
+;
+MSG_FILEREQ_MEN_FILELIST
+Fájllista
+; File list
+;
+MSG_FILEREQ_MEN_FILELIST_SORTNAME
+1\0Rendezés név szerint
+; 1\0Sort by name
+;
+MSG_FILEREQ_MEN_FILELIST_SORTDATE
+2\0Rendezés dátum szerint
+; 2\0Sort by date
+;
+MSG_FILEREQ_MEN_FILELIST_SORTSIZE
+3\0Rendezés méret szerint
+; 3\0Sort by size
+;
+MSG_FILEREQ_MEN_FILELIST_SORTUP
++\0Növekvõ sorrend
+; +\0Ascending order
+;
+MSG_FILEREQ_MEN_FILELIST_SORTDOWN
+-\0Csökkenõ sorrend
+; -\0Descending order
+;
+MSG_FILEREQ_MEN_FILELIST_SORTDRAWERFIRST
+4\0Fiókok elöl
+; 4\0Show drawers first
+;
+MSG_FILEREQ_MEN_FILELIST_SORTDRAWERSAME
+5\0Fiókok a fájlokkal vegyesen
+; 5\0Show drawers with files
+;
+MSG_FILEREQ_MEN_FILELIST_SORTDRAWERLAST
+6\0Fiókok hátul
+; 6\0Show drawers last
+;
+MSG_MODEREQ_TITLE
+Képernyõmód kiválasztása
+; Select Screen Mode
+;
+MSG_MODEREQ_POSITIVE_GAD
+Rendben
+; Ok
+;
+MSG_MODEREQ_NEGATIVE_GAD
+Mégsem
+; Cancel
+;
+MSG_MODEREQ_OVERSCAN_LABEL
+Képmezõ
+; Overscan
+;
+MSG_MODEREQ_OVERSCAN_TEXT
+Szöveges méret
+; Text Size
+;
+MSG_MODEREQ_OVERSCAN_GRAPHICS
+Grafikus méret
+; Graphics Size
+;
+MSG_MODEREQ_OVERSCAN_EXTREME
+Extrém méret
+; Extreme Size
+;
+MSG_MODEREQ_OVERSCAN_MAXIMUM
+Extrém méret
+; Maximum Size
+;
+MSG_MODEREQ_WIDTH_LABEL
+Szélesség
+; Width
+;
+MSG_MODEREQ_HEIGHT_LABEL
+Magasság
+; Height
+;
+MSG_MODEREQ_COLORS_LABEL
+Színek
+; Colors
+;
+MSG_MODEREQ_AUTOSCROLL_LABEL
+Görgetés
+; AutoScroll
+;
+MSG_MODEREQ_AUTOSCROLL_OFF
+KI
+; OFF
+;
+MSG_MODEREQ_AUTOSCROLL_ON
+BE
+; ON
+;
+MSG_MODEREQ_PROPERTIES_TITLE
+Mód tulajdonságai
+; Mode Properties
+;
+MSG_MODEREQ_PROPERTIES_NOTWB
+Nem támogatja a Workbenchet
+; Does not support Workbench
+;
+MSG_MODEREQ_PROPERTIES_NOTGENLOCK
+Nem támogatja a genlockot
+; Does not support genlock
+;
+MSG_MODEREQ_PROPERTIES_NOTDRAG
+Nem húzható
+; Not draggable
+;
+MSG_MODEREQ_PROPERTIES_HAM
+Hold & Modify
+; Hold & Modify
+;
+MSG_MODEREQ_PROPERTIES_EHB
+Extra-HalfBright
+; Extra-HalfBright
+;
+MSG_MODEREQ_PROPERTIES_LACE
+Váltottsoros
+; Interlaced
+;
+MSG_MODEREQ_PROPERTIES_ECS
+ECS szükséges
+; Requires ECS
+;
+MSG_MODEREQ_PROPERTIES_WB
+Támogatja a Workbenchet
+; Supports Workbench
+;
+MSG_MODEREQ_PROPERTIES_GENLOCK
+Támogatja a genlockot
+; Supports genlock
+;
+MSG_MODEREQ_PROPERTIES_DRAG
+Húzható
+; Draggable
+;
+MSG_MODEREQ_PROPERTIES_DPFPRI2
+DualPlayfield 2. prioritás
+; DualPlayfield Priority 2
+;
+MSG_MODEREQ_PROPERTIES_REFRESHRATE
+%ldHz, %ld,%ldkHz
+; %ldHz, %ld,%ldkHz
+;
+MSG_MODEREQ_MEN_CONTROL
+Vezérlés
+; Control
+;
+MSG_MODEREQ_MEN_CONTROL_LASTMODE
+L\0Elõzõ mód
+; L\0Last Mode
+;
+MSG_MODEREQ_MEN_CONTROL_NEXTMODE
+N\0Következõ mód
+; N\0Next Mode
+;
+MSG_MODEREQ_MEN_CONTROL_PROPERTIES
+?\0Tulajdonságok...
+; ?\0Property List...
+;
+MSG_MODEREQ_MEN_CONTROL_RESTORE
+V\0Visszaállít
+; R\0Restore
+;
+MSG_MODEREQ_MEN_CONTROL_OK
+O\0Rendben
+; O\0Ok
+;
+MSG_MODEREQ_MEN_CONTROL_CANCEL
+Mégsem
+; C\0Cancel
+;
+MSG_FONTREQ_TITLE
+Betûtípus kiválasztása
+; Select Font
+;
+MSG_FONTREQ_POSITIVE_GAD
+Rendben
+; Ok
+;
+MSG_FONTREQ_NEGATIVE_GAD
+Mégsem
+; Cancel
+;
+MSG_FONTREQ_MEN_CONTROL
+Vezérlés
+; Control
+;
+MSG_FONTREQ_MEN_CONTROL_LASTFONT
+L\0Elõzõ betûtípus
+; L\0Last Font
+;
+MSG_FONTREQ_MEN_CONTROL_NEXTFONT
+N\0Következõ betûtípus
+; N\0Next Font
+;
+MSG_FONTREQ_MEN_CONTROL_RESTORE
+V\0Visszaállít
+; R\0Restore
+;
+MSG_FONTREQ_MEN_CONTROL_RESCAN
+D\0Lemez újraolvasása
+; D\0Rescan Disk
+;
+MSG_FONTREQ_MEN_CONTROL_OK
+O\0Rendben
+; O\0Ok
+;
+MSG_FONTREQ_MEN_CONTROL_CANCEL
+Mégsem
+; C\0Cancel
+;
+MSG_FONTREQ_MODE_LABEL
+Mód
+; Mode
+;
+MSG_FONTREQ_MODE_TEXT
+Szöveg
+; Text
+;
+MSG_FONTREQ_MODE_TEXTANDFIELD
+Szöveg+mezõ
+; Text+Field
+;
+MSG_FONTREQ_MODE_COMPLEMENT
+Komplemens
+; Complement
+;
+MSG_FONTREQ_STYLE_LABEL
+Stílus
+; Style
+;
+MSG_FONTREQ_STYLE_BOLD
+K
+; B
+;
+MSG_FONTREQ_STYLE_ITALIC
+D
+; I
+;
+MSG_FONTREQ_STYLE_UNDERLINED
+A
+; U
+;
+MSG_FONTREQ_COLOR_LABEL_FG
+Szín
+; Color
+;
+MSG_FONTREQ_COLOR_LABEL_BG
+Háttérszín
+; BG Color
+;
+MSG_FONTREQ_COLOR_LABEL_FGBG
+Színek
+; Colors
+;

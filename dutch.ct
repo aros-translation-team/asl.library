@@ -1,0 +1,416 @@
+## version $VER: asl.catalog 2.0 (06.08.2026)
+## language nederlands
+## codeset 0
+;
+MSG_FILEREQ_TITLE
+Selecteer bestand
+; Select File
+;
+MSG_FILEREQ_POSITIVE_GAD
+Ok
+; Ok
+;
+MSG_FILEREQ_NEGATIVE_GAD
+Annuleer
+; Cancel
+;
+MSG_FILEREQ_VOLUMES_GAD
+Volumes
+; Volumes
+;
+MSG_FILEREQ_PARENT_GAD
+Hoger
+; Parent
+;
+MSG_FILEREQ_PATTERN_LABEL
+Patroon
+; Pattern
+;
+MSG_FILEREQ_DRAWER_LABEL
+Lade
+; Drawer
+;
+MSG_FILEREQ_FILE_LABEL
+Bestand
+; File
+;
+MSG_FILEREQ_LV_DRAWER
+Lade
+; Drawer
+;
+MSG_FILEREQ_LV_ASSIGN
+Assign
+; Assign
+;
+MSG_FILEREQ_DELETE_TITLE
+Verwijder bestand
+; Delete File
+;
+MSG_FILEREQ_DELETE_MSG
+Waarschuwing: u kunt niet terugkrijgen\nwat u verwijdert! Toch verwijderen:\n\%s?
+; Warning: you cannot get back\nwhat you delete! Ok to delete\n\%s?
+;
+MSG_FILEREQ_DELETE_OKCANCEL
+Verwijder|Annuleer
+; Delete|Cancel
+;
+MSG_FILEREQ_FOREIGNER_TITLE
+Iconen uit verschillende laden neergezet
+; Icons dropped from different drawers
+;
+MSG_FILEREQ_FOREIGNER_MSG
+Waarschuwing: De zojuist neergezette iconen\nkomen niet allemaal uit dezelfde lade.\nDe requester kon de volgende bestanden niet verwerken:\n%s
+; Warning: The icons that have just been dropped\ndo not all come from the same drawer.\nThe requester could not handle the following files:\n%s
+;
+MSG_FILEREQ_FOREIGNER_OK
+OK
+; OK
+;
+MSG_FILEREQ_RENAME_TITLE
+Hernoem
+; Rename
+;
+MSG_FILEREQ_RENAME_OK
+Hernoem
+; Rename
+;
+MSG_FILEREQ_RENAME_CANCEL
+Annuleer
+; Cancel
+;
+MSG_FILEREQ_CREATEDRAWER_TITLE
+Lade aanmaken
+; Create Drawer
+;
+MSG_FILEREQ_CREATEDRAWER_OK
+Aanmaken
+; Create
+;
+MSG_FILEREQ_CREATEDRAWER_CANCEL
+Annuleer
+; Cancel
+;
+MSG_FILEREQ_CREATEDRAWER_DEFNAME
+Hernoem_Mij
+; Rename_Me
+;
+MSG_FILEREQ_SELECT_TITLE
+Selecteer op patroon
+; Select by pattern
+;
+MSG_FILEREQ_SELECT_OK
+Selecteer
+; Select
+;
+MSG_FILEREQ_SELECT_CANCEL
+Annuleer
+; Cancel
+;
+MSG_FILEREQ_MEN_CONTROL
+Besturing
+; Control
+;
+MSG_FILEREQ_MEN_CONTROL_LASTNAME
+L\0Laatste naam
+; L\0Last Name
+;
+MSG_FILEREQ_MEN_CONTROL_NEXTNAME
+N\0Volgende naam
+; N\0Next Name
+;
+MSG_FILEREQ_MEN_CONTROL_RESTORE
+R\0Herstel
+; R\0Restore
+;
+MSG_FILEREQ_MEN_CONTROL_PARENT
+H\0Hoger
+; P\0Parent
+;
+MSG_FILEREQ_MEN_CONTROL_VOLUMES
+V\0Volumes
+; V\0Volumes
+;
+MSG_FILEREQ_MEN_CONTROL_UPDATE
+B\0Bijwerken
+; U\0Update
+;
+MSG_FILEREQ_MEN_CONTROL_DELETE
+W\0Verwijder
+; D\0Delete
+;
+MSG_FILEREQ_MEN_CONTROL_CREATEDRAWER
+M\0Nieuwe lade aanmaken...
+; T\0Create new drawer...
+;
+MSG_FILEREQ_MEN_CONTROL_RENAME
+E\0Hernoem...
+; E\0Rename...
+;
+MSG_FILEREQ_MEN_CONTROL_SELECT
+#\0Selecteer...
+; #\0Select...
+;
+MSG_FILEREQ_MEN_CONTROL_OK
+O\0Ok
+; O\0Ok
+;
+MSG_FILEREQ_MEN_CONTROL_CANCEL
+A\0Annuleer
+; C\0Cancel
+;
+MSG_FILEREQ_MEN_FILELIST
+Bestandslijst
+; File list
+;
+MSG_FILEREQ_MEN_FILELIST_SORTNAME
+1\0Sorteer op naam
+; 1\0Sort by name
+;
+MSG_FILEREQ_MEN_FILELIST_SORTDATE
+2\0Sorteer op datum
+; 2\0Sort by date
+;
+MSG_FILEREQ_MEN_FILELIST_SORTSIZE
+3\0Sorteer op grootte
+; 3\0Sort by size
+;
+MSG_FILEREQ_MEN_FILELIST_SORTUP
++\0Oplopende volgorde
+; +\0Ascending order
+;
+MSG_FILEREQ_MEN_FILELIST_SORTDOWN
+-\0Aflopende volgorde
+; -\0Descending order
+;
+MSG_FILEREQ_MEN_FILELIST_SORTDRAWERFIRST
+4\0Toon laden eerst
+; 4\0Show drawers first
+;
+MSG_FILEREQ_MEN_FILELIST_SORTDRAWERSAME
+5\0Toon laden bij bestanden
+; 5\0Show drawers with files
+;
+MSG_FILEREQ_MEN_FILELIST_SORTDRAWERLAST
+6\0Toon laden laatst
+; 6\0Show drawers last
+;
+MSG_MODEREQ_TITLE
+Selecteer schermmodus
+; Select Screen Mode
+;
+MSG_MODEREQ_POSITIVE_GAD
+Ok
+; Ok
+;
+MSG_MODEREQ_NEGATIVE_GAD
+Annuleer
+; Cancel
+;
+MSG_MODEREQ_OVERSCAN_LABEL
+Overscan
+; Overscan
+;
+MSG_MODEREQ_OVERSCAN_TEXT
+Tekstgrootte
+; Text Size
+;
+MSG_MODEREQ_OVERSCAN_GRAPHICS
+Grafische grootte
+; Graphics Size
+;
+MSG_MODEREQ_OVERSCAN_EXTREME
+Extreme grootte
+; Extreme Size
+;
+MSG_MODEREQ_OVERSCAN_MAXIMUM
+Maximale grootte
+; Maximum Size
+;
+MSG_MODEREQ_WIDTH_LABEL
+Breedte
+; Width
+;
+MSG_MODEREQ_HEIGHT_LABEL
+Hoogte
+; Height
+;
+MSG_MODEREQ_COLORS_LABEL
+Kleuren
+; Colors
+;
+MSG_MODEREQ_AUTOSCROLL_LABEL
+AutoScroll
+; AutoScroll
+;
+MSG_MODEREQ_AUTOSCROLL_OFF
+UIT
+; OFF
+;
+MSG_MODEREQ_AUTOSCROLL_ON
+AAN
+; ON
+;
+MSG_MODEREQ_PROPERTIES_TITLE
+Mode Instellingen
+; Mode Properties
+;
+MSG_MODEREQ_PROPERTIES_NOTWB
+Ondersteunt Workbench niet
+; Does not support Workbench
+;
+MSG_MODEREQ_PROPERTIES_NOTGENLOCK
+Ondersteunt genlock niet
+; Does not support genlock
+;
+MSG_MODEREQ_PROPERTIES_NOTDRAG
+Niet versleepbaar
+; Not draggable
+;
+MSG_MODEREQ_PROPERTIES_HAM
+Hold & Modify
+; Hold & Modify
+;
+MSG_MODEREQ_PROPERTIES_EHB
+Extra-HalfBright
+; Extra-HalfBright
+;
+MSG_MODEREQ_PROPERTIES_LACE
+Interlaced
+; Interlaced
+;
+MSG_MODEREQ_PROPERTIES_ECS
+Vereist ECS
+; Requires ECS
+;
+MSG_MODEREQ_PROPERTIES_WB
+Ondersteunt Workbench
+; Supports Workbench
+;
+MSG_MODEREQ_PROPERTIES_GENLOCK
+Ondersteunt genlock
+; Supports genlock
+;
+MSG_MODEREQ_PROPERTIES_DRAG
+Versleepbaar
+; Draggable
+;
+MSG_MODEREQ_PROPERTIES_DPFPRI2
+DualPlayfield Prioriteit 2
+; DualPlayfield Priority 2
+;
+MSG_MODEREQ_PROPERTIES_REFRESHRATE
+%ldHz, %ld,%ldkHz
+; %ldHz, %ld,%ldkHz
+;
+MSG_MODEREQ_MEN_CONTROL
+Besturing
+; Control
+;
+MSG_MODEREQ_MEN_CONTROL_LASTMODE
+L\0Laatste Mode
+; L\0Last Mode
+;
+MSG_MODEREQ_MEN_CONTROL_NEXTMODE
+N\0Volgende Mode
+; N\0Next Mode
+;
+MSG_MODEREQ_MEN_CONTROL_PROPERTIES
+?\0Instellingen Lijst...
+; ?\0Property List...
+;
+MSG_MODEREQ_MEN_CONTROL_RESTORE
+R\0Herstel
+; R\0Restore
+;
+MSG_MODEREQ_MEN_CONTROL_OK
+O\0Ok
+; O\0Ok
+;
+MSG_MODEREQ_MEN_CONTROL_CANCEL
+A\0Annuleer
+; C\0Cancel
+;
+MSG_FONTREQ_TITLE
+Selecteer font
+; Select Font
+;
+MSG_FONTREQ_POSITIVE_GAD
+Ok
+; Ok
+;
+MSG_FONTREQ_NEGATIVE_GAD
+Annuleer
+; Cancel
+;
+MSG_FONTREQ_MEN_CONTROL
+Besturing
+; Control
+;
+MSG_FONTREQ_MEN_CONTROL_LASTFONT
+L\0Laatste Font
+; L\0Last Font
+;
+MSG_FONTREQ_MEN_CONTROL_NEXTFONT
+N\0Volgende Font
+; N\0Next Font
+;
+MSG_FONTREQ_MEN_CONTROL_RESTORE
+R\0Herstel
+; R\0Restore
+;
+MSG_FONTREQ_MEN_CONTROL_RESCAN
+D\0Schijf opnieuw doorzoeken
+; D\0Rescan Disk
+;
+MSG_FONTREQ_MEN_CONTROL_OK
+O\0Ok
+; O\0Ok
+;
+MSG_FONTREQ_MEN_CONTROL_CANCEL
+A\0Annuleer
+; C\0Cancel
+;
+MSG_FONTREQ_MODE_LABEL
+Mode
+; Mode
+;
+MSG_FONTREQ_MODE_TEXT
+Tekst
+; Text
+;
+MSG_FONTREQ_MODE_TEXTANDFIELD
+Tekst+Veld
+; Text+Field
+;
+MSG_FONTREQ_MODE_COMPLEMENT
+Complement
+; Complement
+;
+MSG_FONTREQ_STYLE_LABEL
+Stijl
+; Style
+;
+MSG_FONTREQ_STYLE_BOLD
+B
+; B
+;
+MSG_FONTREQ_STYLE_ITALIC
+I
+; I
+;
+MSG_FONTREQ_STYLE_UNDERLINED
+U
+; U
+;
+MSG_FONTREQ_COLOR_LABEL_FG
+Kleur
+; Color
+;
+MSG_FONTREQ_COLOR_LABEL_BG
+Achtergrondkleur
+; BG Color
+;
+MSG_FONTREQ_COLOR_LABEL_FGBG
+Kleuren
+; Colors
+;
