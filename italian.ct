@@ -61,7 +61,7 @@ Icone eliminate da diverse cartelle
 ;
 MSG_FILEREQ_FOREIGNER_MSG 
 Attenzione: Le icone eliminate non provengono\n\tutte dallo stesso cassetto. Il richiedente non ha\n\ potuto elaborare i seguenti file:\n\%s
-;Warning: The icons that have just been dropped\n\do not all come from the same drawer.\n\The requester could not handle the following files:\n\%s
+;Warning: The icons that have just been dropped\ndo not all come from the same drawer.\nThe requester could not handle the following files:\n%s
 ;
 MSG_FILEREQ_FOREIGNER_OK
 OK
